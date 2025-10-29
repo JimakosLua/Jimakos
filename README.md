@@ -30,7 +30,7 @@
 
 📊 GitHub Stats:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=K3nKanekii&show_icons=true&theme=radical" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jimakos&show_icons=true&theme=radical" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jimakos&layout=compact&theme=radical" width="41%"/>
 </div>
 
